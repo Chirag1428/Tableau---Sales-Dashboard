@@ -16,11 +16,11 @@
 
 -> The dashboard layout followed best practices with:
 
-    1. Clean KPI cards for executive view
+1. Clean KPI cards for executive view
     
-    2. Comparative bar charts for category performance
+2. Comparative bar charts for category performance
     
-    3. Trend lines for time-based monitoring
+3. Trend lines for time-based monitoring
     
 -> Overall, the solution reduced manual Excel reporting and enabled faster, data-driven decisions in sales planning, stock management, and profit optimization.
 
